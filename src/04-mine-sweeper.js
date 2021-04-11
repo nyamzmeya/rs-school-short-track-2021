@@ -20,9 +20,9 @@
  *  [2, 1, 1],
  *  [1, 1, 1]
  * ]
+ *
  */
 function minesweeper(/* matrix */) {
   throw new Error('Not implemented');
 }
-
 module.exports = minesweeper;
